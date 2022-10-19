@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bijan Kundu</h1>
 <h3 align="center">A developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on **Web Projects**
+- 🔭 I’m currently working on **Blockchain projects**
 
-- 🌱 I’m currently learning **NodeJs,MongoDB,Microservices**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://bijankundu.github.io/](https://bijankundu.github.io/)
-
-- 💬 Ask me about **React,HTML,CSS,JS,C++**
 
 
 <h3 align="left">Connect with me:</h3>

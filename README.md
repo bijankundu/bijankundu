@@ -53,4 +53,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bijankundu"><img src="https://github-readme-stats.vercel.app/api?username=bijankundu&show_icons=true&hide=false&count_private=true&hide_border=true&show_icons=true&theme=chartreuse-dark" alt="bijankundu's GitHub stats" /></a>
+<a href="http://www.github.com/bijankundu"><img src="https://readme-stats-bijan.vercel.app/api?username=bijankundu&show_icons=true&hide=false&count_private=true&hide_border=false&theme=transparent" alt="bijankundu's GitHub stats" /></a>

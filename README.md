@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijan Kundu</h1>
 <h3 align="center">A developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on **Blockchain projects**
+- 🔭 I’m currently working on [**DayFi**](https://www.dayfi.io/)
 
 - 🌱 I’m currently learning **Blockchain**
 

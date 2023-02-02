@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://bijankundu.github.io/](https://bijankundu.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://bijankundu.github.io/](https://bijankundu.github.io/) -->
 - Connect with me - <a href="https://linkedin.com/in/bijankundu" target="_blank"><strong>Linkedin</strong></a>
 
 
